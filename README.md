@@ -1,2 +1,2 @@
 # hangman_game
-This is hangman game project
+This is a hangman game project
